@@ -40,11 +40,3 @@ https://swapi.py4e.com/
 | | Vehicles: Supercar - Space M |
 | | Starships: Rocket - Mars X |
 | Next Page | |
-# Instructions for Glider
-
-This was created using node v16.15.1
-
-### Commands
-
-- `npm run dev` runs the project
-- `npm run test` runs the tests and outputs the test results in `./testOutput.json`
