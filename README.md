@@ -29,26 +29,17 @@ https://swapi.py4e.com/
 
 ### Output
 
-+-----------------------------+ +-------------------------+
-| +-----------------------+   | | John Doe                |
-| | John Doe              |   | | Gender:                 |
-| +-----------------------+   | | Hair Color:             |
-|                             | | Height:                 |
-| +-----------------------+   | | Mass:                   |
-| | Jane Doe              |   | | Films:                  |
-| +-----------------------+   | | +---------------------+ |
-|                             | | | Film 1 - Episode #1 | |
-| +-----------------------+   | | +---------------------+ |  
-| | Bobby Doe             |   | | Vehicles:               |
-| +-----------------------+   | | +---------------------+ |  
-|                             | | | Supercar - Space M  | |
-|                             | | +---------------------+ |  
-|                             | | Starships:              |
-| +-----------------------+   | | +---------------------+ |
-| | Next Page             |   | | | Rocket - Mars X     | |
-| +-----------------------+   | | +---------------------+ |
-+-----------------------------+ +-------------------------+
-
+| People | Details |
+|--------|---------|
+| John Doe | **John Doe** |
+| Jane Doe | Gender: |
+| Bobby Doe | Hair Color: |
+| | Height: |
+| | Mass: |
+| | Films: Film 1 - Episode #1 |
+| | Vehicles: Supercar - Space M |
+| | Starships: Rocket - Mars X |
+| Next Page | |
 # Instructions for Glider
 
 This was created using node v16.15.1
